@@ -5,6 +5,26 @@ build/
 dist/
 wheels/
 *.egg-info
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
 
 # Virtual environments
-.venv
+.venv/
+
+# Env / secrets
+.env
+.env.local
+
+# Model & HF caches (if kept under repo)
+.cache/
+models/
+*.gguf
+
+# Qdrant / local service data
+qdrant_storage/
+data/qdrant/
+
+# Optional chunk debug dumps
+data/chunks.jsonl
+data/chunks/

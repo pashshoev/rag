@@ -1,0 +1,17 @@
+.venv/
+.git/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.cache/
+qdrant_storage/
+**/__pycache__/
+*.pyc
+data/chunks.jsonl
+data/chunks/
+.python-version
+docs/
+tests/
+scripts/
+*.md
+!README.md

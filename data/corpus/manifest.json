@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Retrieval-augmented generation",
+    "file": "retrieval-augmented_generation.txt",
+    "url": "https://en.wikipedia.org/wiki/Retrieval-augmented_generation",
+    "chars": "12169"
+  },
+  {
+    "title": "Vector database",
+    "file": "vector_database.txt",
+    "url": "https://en.wikipedia.org/wiki/Vector_database",
+    "chars": "3731"
+  },
+  {
+    "title": "Word embedding",
+    "file": "word_embedding.txt",
+    "url": "https://en.wikipedia.org/wiki/Word_embedding",
+    "chars": "10123"
+  },
+  {
+    "title": "Large language model",
+    "file": "large_language_model.txt",
+    "url": "https://en.wikipedia.org/wiki/Large_language_model",
+    "chars": "55048"
+  },
+  {
+    "title": "Information retrieval",
+    "file": "information_retrieval.txt",
+    "url": "https://en.wikipedia.org/wiki/Information_retrieval",
+    "chars": "24101"
+  },
+  {
+    "title": "Nimbus Petal Technologies — Internal Handbook (excerpt)",
+    "file": "nimbus_petal_internal_handbook.txt",
+    "url": "internal/fictional",
+    "chars": "1750"
+  }
+]
