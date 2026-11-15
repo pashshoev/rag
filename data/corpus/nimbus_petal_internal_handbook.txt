@@ -1,0 +1,34 @@
+Title: Nimbus Petal Technologies — Internal Handbook (excerpt)
+Source: Internal / fictional (RAG sanity-check corpus)
+Note: This document is synthetic. It is not from Wikipedia.
+---
+
+Company overview
+
+Nimbus Petal Technologies is a private industrial software company based in Reykjavík, Iceland. The company builds "FrostLedger", a niche inventory and cold-chain tracking product for flower wholesalers and greenhouse operators. Nimbus Petal was founded in 2019 by Ásta Björnsdóttir and does not sell consumer apps.
+
+Office hours and support coverage
+
+The Reykjavík office runs on a nonstandard schedule to align with greenhouse buyers in East Asia:
+
+- Core office hours: Tuesday through Saturday, 06:30–14:00 Iceland Time (GMT)
+- Closed Sunday and Monday
+- Engineering on-call window: Wednesday and Friday only, 20:00–23:00 Iceland Time
+- Public holidays observed: Midsummer Day (observed locally as 21 June) and "Petal Day" (internal holiday on 3 November)
+
+Visitor policy: external guests must check in at Dock B, not the main lobby, and must wear a lilac visitor badge.
+
+How to contact us
+
+- General inbox: hello@nimbuspetal.internal
+- Support (FrostLedger only): frost-help@nimbuspetal.internal
+- Phone (Iceland): +354-555-0199
+- Escalation code for Priority-1 outages: PETAL-91-ORCHID
+- Physical address: Nimbus Petal Technologies, Hafnargata 17B, 101 Reykjavík, Iceland
+
+Internal facts used in ops
+
+- The staging cluster hostname is "glacier-staging-07.nimbuspetal.internal".
+- Default SLA for paid FrostLedger customers is a first response within 47 minutes during core office hours.
+- The company cafeteria serves only vegetarian food on Thursdays; the standing Thursday soup is "kelp and barley".
+- Employee wifi guest password rotates quarterly; the current guest SSID is "PetalGuest-Autumn" and the password is "LilacFence47!".
